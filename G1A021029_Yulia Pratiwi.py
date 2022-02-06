@@ -121,3 +121,15 @@ def pertama():
   last()
 
 pertama()
+
+# ini adalah salah satu contoh program pemesanan tiket pesawat dimana 
+# Def adalah kumpulan perintah atau baris kode yang dikelompokkan menjadi satu untuk kemudian bisa dipanggil atau digunakan berkali-kali
+# print berfungsi untuk menampilakan kode yang kita tulis dengan hasil atau output nantinya
+# input untuk memasukkan berupa huruf atau angka, sesuai dengan kebutuhan
+# Int berfungsi untuk mengubah bilangan atau string bilangan ke bentuk bilangan bulat (integer)
+# if adalah kondisi yang digunakan untuk mengeksekusi kode jika kondisi bernilai benar (true)
+# else yaitu kebalikannya dari if yaitu kode akan dieksekusi jika bernilai salah
+# elif merupakan percabangan dari if
+# perkalian (*) berfungsi untuk mengalikan operand/bilangan
+# end berfungsi mengganti karakter terakhir bawaan yang dicetak di layar
+# quit() berfungsi untuk keluar dari suatu program
